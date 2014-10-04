@@ -1,0 +1,6 @@
+[24-Sep-2014 22:45:43] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/jupadmin/public_html/panthercontrol.tk/chat/conexao_singleton/BD.class.php:8
+Stack trace:
+#0 /home/jupadmin/public_html/panthercontrol.tk/chat/conexao_singleton/BD.class.php(8): PDO->__construct('mysql:host=loca...', 'root', '12345')
+#1 /home/jupadmin/public_html/panthercontrol.tk/control/validarLogin.php(9): BD::conn()
+#2 {main}
+  thrown in /home/jupadmin/public_html/panthercontrol.tk/chat/conexao_singleton/BD.class.php on line 8

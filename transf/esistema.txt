@@ -1,0 +1,3 @@
+1;COLÉGIO MARIA ESTER II;Rua Antonio Teixeira Leite, 248;Serrinha
+2;COLÉGIO PROVECTO;Av. Godofredo Maciel, 2106;Maraponga
+3;COLÉGIO AFONSO ANDRADE;R. Cel. Matos Dourado, 168;Antônio Bezerra
